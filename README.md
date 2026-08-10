@@ -65,8 +65,7 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ### 💼 Professional Experience
 
-**DevOps & Cloud Engineer Intern** | <img src="https://img.shields.io/badge/Zetheta_Algorithms_Private_Limited-2C3E50?style=for-the-badge" alt="Zetheta Algorithms" align="center" />
-*June 2026 – Present*
+**DevOps & Cloud Engineer Intern** | Zetheta Algorithms Private Limited | *June 2026 – Present*
 *   **CI/CD Automation:** Spearheading the automation of CI/CD pipelines to streamline deployment workflows, reducing manual intervention by leveraging Git and Shell scripting.
 *   **Infrastructure as Code:** Provisioning and managing scalable cloud infrastructure on AWS (EC2, S3, RDS) utilizing IaC principles with Terraform.
 *   **Container Orchestration:** Containerizing application environments using Docker and orchestrating deployments via Kubernetes to ensure high availability, resiliency, and optimal resource utilization.
@@ -76,8 +75,10 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ### 🔬 Featured Projects
 
-*   **YOLO-Powered Real-Time CCTV Surveillance System:** Engineered an AI-driven intelligent crowd monitoring and crime detection system utilizing YOLO algorithms for rapid, real-time object detection across live video feeds. Optimized the inference pipeline to achieve robust accuracy in anomaly detection.
 *   **Lip Vision:** Developed an advanced deep-learning computer vision model using Python focused on automated visual speech recognition and lip-reading capabilities to bridge communication gaps.
+
+*   **YOLO-Powered Real-Time CCTV Surveillance System:** Engineered an AI-driven intelligent crowd monitoring and crime detection system utilizing YOLO algorithms for rapid, real-time object detection across live video feeds. Optimized the inference pipeline to achieve robust accuracy in anomaly detection.
+
 *   **Overhead Conductor Breakage Detection:** Designed a cost-effective IoT hardware and software solution to instantly detect breakages in Low Voltage AC distribution overhead lines, mitigating electrical safety hazards and reducing system downtime.
 
 ---
