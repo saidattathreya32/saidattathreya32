@@ -85,7 +85,7 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ### 🏆 Achievements & Certifications
 
-*   <img src="https://img.shields.io/badge/Smart_India_Hackathon_2025-Winner-FF7F00?style=for-the-badge" alt="Smart India Hackathon" align="center" /> Selected as the Winner in the internal hackathon round, successfully competing against 20+ teams by delivering an innovative and robust technical prototype.
+*   🥇 **Smart India Hackathon 2025 Winner:** Selected as the Winner in the internal hackathon round, successfully competing against 20+ teams by delivering an innovative and robust technical prototype.
 *   📜 **AI & Data Science:** Certified in Generative AI, Prompt Engineering & OpenAI GPT Models, Deep Learning for Developers, NLP, and Computer Vision Fundamentals.
 *   🛡️ **Systems & Security:** Certified in Introduction to Cybersecurity, Networking Basics, Agile Scrum in Practice, and Introduction to PowerShell.
 
