@@ -18,7 +18,7 @@
 
 ### About Me
 
-I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023–2027). As an innovative DevOps & Cloud Engineer Intern, I have hands-on experience in designing, deploying, and maintaining scalable infrastructure. 
+I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology. As an innovative DevOps & Cloud Engineer Intern, I have hands-on experience in designing, deploying, and maintaining scalable infrastructure. 
 
 *   **Cloud & Containerization:** Proficient in leveraging AWS, Docker, Kubernetes, and Terraform to automate deployment workflows and optimize system availability.
 *   **Systems & Automation:** Equipped with a strong foundation in Linux system administration, shell scripting, and proactive network troubleshooting.
