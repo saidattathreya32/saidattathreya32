@@ -18,7 +18,7 @@
 
 ### 🚀 About Me
 
-I am a student of JNTUH UCJ pursuing my B.Tech in Information Technology (2023–2027). As an innovative DevOps & Cloud Engineer Intern, I have hands-on experience in designing, deploying, and maintaining scalable infrastructure. 
+I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023–2027). As an innovative DevOps & Cloud Engineer Intern, I have hands-on experience in designing, deploying, and maintaining scalable infrastructure. 
 
 *   **Cloud & Containerization:** Proficient in leveraging AWS, Docker, Kubernetes, and Terraform to automate deployment workflows and optimize system availability.
 *   **Systems & Automation:** Equipped with a strong foundation in Linux system administration, shell scripting, and proactive network troubleshooting.
@@ -65,7 +65,7 @@ I am a student of JNTUH UCJ pursuing my B.Tech in Information Technology (2023�
 
 ### 💼 Professional Experience
 
-**DevOps & Cloud Engineer Intern | Zetheta Algorithms Private Limited** 
+**DevOps & Cloud Engineer Intern** | <img src="https://img.shields.io/badge/Zetheta_Algorithms_Private_Limited-2C3E50?style=for-the-badge" alt="Zetheta Algorithms" align="center" />
 *June 2026 – Present*
 *   **CI/CD Automation:** Spearheading the automation of CI/CD pipelines to streamline deployment workflows, reducing manual intervention by leveraging Git and Shell scripting.
 *   **Infrastructure as Code:** Provisioning and managing scalable cloud infrastructure on AWS (EC2, S3, RDS) utilizing IaC principles with Terraform.
