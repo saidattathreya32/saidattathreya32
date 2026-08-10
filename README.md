@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Sai Dattathreya Kushanapelli
+# Sai Dattathreya Kushanapelli
 
 **DevOps & Cloud Engineer | Information Technology Undergraduate | Cybersecurity Enthusiast**
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
 I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023–2027). As an innovative DevOps & Cloud Engineer Intern, I have hands-on experience in designing, deploying, and maintaining scalable infrastructure. 
 
@@ -26,7 +26,7 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ---
 
-### 🛠️ Technical Arsenal
+### Technical Arsenal
 
 <details open>
 <summary><b>Cloud Computing & DevOps</b></summary>
@@ -63,7 +63,7 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 **DevOps & Cloud Engineer Intern** | Zetheta Algorithms Private Limited | *June 2026 – Present*
 *   **CI/CD Automation:** Spearheading the automation of CI/CD pipelines to streamline deployment workflows, reducing manual intervention by leveraging Git and Shell scripting.
@@ -73,7 +73,7 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ---
 
-### 🔬 Featured Projects
+### Featured Projects
 
 *   **Lip Vision:** Developed an advanced deep-learning computer vision model using Python focused on automated visual speech recognition and lip-reading capabilities to bridge communication gaps.
 
@@ -83,17 +83,17 @@ I am a student of JNTUH UCEJ pursuing my B.Tech in Information Technology (2023�
 
 ---
 
-### 🏆 Achievements & Certifications
+### Achievements & Certifications
 
-*   🥇 **Smart India Hackathon 2025 Winner:** Selected as the Winner in the internal hackathon round, successfully competing against 20+ teams by delivering an innovative and robust technical prototype.
-*   📜 **AI & Data Science:** Certified in Generative AI, Prompt Engineering & OpenAI GPT Models, Deep Learning for Developers, NLP, and Computer Vision Fundamentals.
-*   🛡️ **Systems & Security:** Certified in Introduction to Cybersecurity, Networking Basics, Agile Scrum in Practice, and Introduction to PowerShell.
+* **Smart India Hackathon 2025 Winner:** Selected as the Winner in the internal hackathon round, successfully competing against 20+ teams by delivering an innovative and robust technical prototype.
+* **AI & Data Science:** Certified in Generative AI, Prompt Engineering & OpenAI GPT Models, Deep Learning for Developers, NLP, and Computer Vision Fundamentals.
+* **Systems & Security:** Certified in Introduction to Cybersecurity, Networking Basics, Agile Scrum in Practice, and Introduction to PowerShell.
 
 ---
 
 <div align="center">
   
-### 📈 GitHub Analytics
+### GitHub Analytics
 
 <a href="https://github.com/saidattathreya32">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saidattathreya32&show_icons=true&theme=transparent&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=ffffff" />
