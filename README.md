@@ -2,7 +2,7 @@
 
 # Sai Dattathreya Kushanapelli
 
-**DevOps & Cloud Engineer | Information Technology Undergraduate | Cybersecurity Enthusiast**
+**DevOps & Cloud Engineer (Intern) | Information Technology Undergraduate | Cybersecurity Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-dattathreya-k-208a062a7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:23jj1a1232@jntuhcej.ac.in)
